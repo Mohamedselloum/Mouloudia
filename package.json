@@ -1,5 +1,5 @@
 {
-  "name": "milan-store",
+  "name": "Mercatus-store",
   "version": "1.0.0",
   "scripts": {
     "dev": "vite",
@@ -17,6 +17,6 @@
     "postcss": "^8.4.24",
     "tailwindcss": "^3.3.2",
     "typescript": "^5.0.2",
-    "vite": "^4.3.9"
+    "@vitejs/plugin-react": "^4.0.0"
   }
 }
